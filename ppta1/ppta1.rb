@@ -86,3 +86,5 @@ rescue => e
   puts e
   exit
 end
+
+# https://neerc.ifmo.ru/wiki/index.php?title=Иерархия_Хомского_формальных_грамматик
